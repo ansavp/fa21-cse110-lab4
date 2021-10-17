@@ -76,13 +76,13 @@ F. true We get true because Boolean(2) maps to true and now the data types match
 15. == only checks equality for the value of the variables and do not care about the data types. It returns true if after casting both of them have the same value.
 === checks for equality of value as well as equality of data types. For this to return true, only if both the value of the variables as well as the data types are the same.
 
-16. Attached as a js file.
+16. done in seperate js file
 
 17. We will get the following array as result-
 [2, 4, 6]
 We get the above result because within the for loop we call the function doSomething which returns the double for all values in the passed array. Thus 1 becomes 2, 2 becomes 4 and 3 becomes 6 which is the final result we get.
 
-18. Attached as a js file.
+18. done in seperate js file
 
 19. The output of the above code is-
 1
